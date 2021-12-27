@@ -24,11 +24,9 @@
 
 4. $ docker-compose up -d (then repeat without -d)
 
-## Woot Woot! ##
+## Serve ##
 
 5. Browser = http://localhost:3000
-
-## WOOOOOOOT ##
 
 ## More Details  ##
 
@@ -39,3 +37,7 @@ The combination, Rails + PostgreSQL + Docker Compose, is derived from this work 
 ### Frontend  ###
 
 Bootstrapped with _create-react-app_
+
+## Author
+
+Paul Anthony McGowan - xhostcom@gmail.com
